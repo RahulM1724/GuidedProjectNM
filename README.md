@@ -14,5 +14,5 @@ This project focuses on redistributing leftover food to poor and needy people in
    📧 23bsds263varunkumarm@skacas.ac.in  
 
 4. **PRASANTH PM**  
-   📧 23bsds245prasanthpm@skacas.ac.in  
+   📧 23bsds244prasanthpm@skacas.ac.in  
 
